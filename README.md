@@ -1,4 +1,4 @@
-# Unity-ArenaShooter
+# Unity-FPS
 3D Arena shooter with both friendly and hostile AI
 
 ## Controls:
