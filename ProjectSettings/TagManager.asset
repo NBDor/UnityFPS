@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - GrenadeIcon
+  - CanvasAmmo
+  - Allies
+  - PlayerWeapon
+  - Enemy
+  - Enemy Commander
+  - PickupLaser
+  - PickupRifle
+  - PickupGrenade
+  - PickUpGrenade
+  - PickUpGranade
+  - UIStatus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pickup
+  - Character
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
