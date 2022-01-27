@@ -7,5 +7,3 @@
 * Q - throw a grenade.
 * Left Mouse Click/Primary Mouse Button - Shoot your current gun (2 types)
 * E - pickup a gun/grenade.
-
-[![Main Menu](https://www.youtube.com/embed/itAdkI1xa4Q)]
